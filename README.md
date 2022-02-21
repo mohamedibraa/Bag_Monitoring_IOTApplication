@@ -31,7 +31,7 @@ Applying on Internet of Things `IoT`.
  
 <p>
 
-### 1. Admin Screen
+### 1. Admin DB Screen
 
 ![1](https://github.com/mohamedibraa/Bag_Monitoring_IOT_Application/blob/master/ScreenShots/1.PNG)
 
@@ -98,7 +98,7 @@ Applying on Internet of Things `IoT`.
 ### 7. Warning Email that sent to the bag's user
 
 - The Bag is Opened Email.
- <br/>
+<br/>
 <br/>
 ![10](https://github.com/mohamedibraa/Bag_Monitoring_IOT_Application/blob/master/ScreenShots/10.jpg)
  
