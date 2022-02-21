@@ -1,4 +1,4 @@
-# Bag_Monitoring_Application
+# Bag_Monitoring_IOT_Application
 ## Description
 Bag Monitoring Application enable the user to monitor his bag in each place using Google Map detection and the status of opening or closing the bag using Two (GPS, Light) sensors.
 Applying on Internet of Things `IoT`.
@@ -98,6 +98,8 @@ Applying on Internet of Things `IoT`.
 ### 7. Warning Email that sent to the bag's user
 
 - The Bag is Opened Email.
+ <br/>
+<br/>
 ![10](https://github.com/mohamedibraa/Bag_Monitoring_IOT_Application/blob/master/ScreenShots/10.jpg)
  
 </p>
